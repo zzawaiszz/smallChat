@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751486079210",
+    "firebase_url": "https://smallchat-52679.firebaseio.com",
+    "project_id": "smallchat-52679",
+    "storage_bucket": "smallchat-52679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751486079210:android:3fa5aefc8db07d09",
+        "android_client_info": {
+          "package_name": "com.example.muhammadawais.smallchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751486079210-r53qkif6cf3nrjovuv82fq8fbhtmfgdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muhammadawais.smallchat",
+            "certificate_hash": "6711238bd78ef767c9ad7a397fe7aeed35a24990"
+          }
+        },
+        {
+          "client_id": "751486079210-ork0m7f54qgivgbmop2s14vnf7pd2h9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsf3EoFY5i98iy7oK4vthjmb_qkMqO-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751486079210-ork0m7f54qgivgbmop2s14vnf7pd2h9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
